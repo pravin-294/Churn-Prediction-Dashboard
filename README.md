@@ -57,6 +57,7 @@ Organizations often struggle to quickly answer key questions such as:
 These insights are difficult to extract from raw data alone.
 
 
+
 • Goal of the Dashboard
 
 The goal of this dashboard is to:
@@ -65,6 +66,7 @@ The goal of this dashboard is to:
 - Identify high-risk customers for proactive retention actions  
 - Highlight key churn drivers affecting customer behavior  
 - Support data-driven decision-making for business stakeholders  
+
 
 
 • Walkthrough of Key Visuals
@@ -79,8 +81,10 @@ The goal of this dashboard is to:
 Provides an instant summary of customer health.
 
 
+
 🔹 Churn Trend by Customer Tenure (Line Chart)
 Visualizes churn behavior across tenure groups to identify early-stage and long-term churn patterns.
+
 
 
 🔹 Churn by Contract Type (Bar Chart)
@@ -92,8 +96,10 @@ Compares churn across:
 Highlights the relationship between contract duration and churn risk.
 
 
+
 🔹 Geographic Churn Analysis (Bar Chart / Map)
 Displays churn distribution across regions or states, helping identify high-churn locations.
+
 
 
 🔹 Churn Drivers Analysis (Bar Charts)
@@ -105,6 +111,7 @@ Analyzes churn based on:
 Identifies the strongest contributors to customer churn.
 
 
+
 🔹 Customer Risk Segmentation (Table / Slicer)
 Customers are categorized into:
 - Low Risk  
@@ -112,6 +119,7 @@ Customers are categorized into:
 - High Risk  
 
 Enables focused retention strategies for high-risk customers.
+
 
 
 • Business Impact & Insights
