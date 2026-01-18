@@ -69,7 +69,7 @@ The goal of this dashboard is to:
 
 ---
 
-####• Walkthrough of Key Visuals
+• Walkthrough of Key Visuals
 
 🔹 Key KPIs (Overview Page)
 - Total Customers  
@@ -124,14 +124,20 @@ Enables focused retention strategies for high-risk customers.
 
 • Business Impact & Insights
 
-- **Improved Retention:** Early identification of high-risk customers  
-- **Revenue Protection:** Reduced revenue loss through targeted interventions  
-- **Strategic Planning:** Better contract and pricing strategies  
-- **Operational Efficiency:** Prioritized customer outreach using risk segmentation  
-- **Executive Visibility:** Clear, concise churn performance reporting  
+- Improved Retention: Early identification of high-risk customers  
+- Revenue Protection: Reduced revenue loss through targeted interventions  
+- Strategic Planning: Better contract and pricing strategies  
+- Operational Efficiency: Prioritized customer outreach using risk segmentation  
+- Executive Visibility: Clear, concise churn performance reporting  
 
 ---
 
-### 6. Conclusion
+### 6.	Screenshots / Demos
+Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
+Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+
+---
+
+### 7. Conclusion
 
 The Churn Prediction Dashboard converts raw customer data into actionable insights. By combining strong KPIs, interactive visuals, and churn driver analysis, it empowers organizations to reduce churn and improve customer retention through informed, data-driven decisions.
