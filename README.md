@@ -44,7 +44,7 @@ This dataset is commonly used for customer retention and churn analysis projects
 
 ### 5. Features / Highlights
 
-#### • Business Problem
+• Business Problem
 
 Customer churn directly impacts revenue and long-term growth.  
 Organizations often struggle to quickly answer key questions such as:
@@ -58,7 +58,7 @@ These insights are difficult to extract from raw data alone.
 
 ---
 
-#### • Goal of the Dashboard
+• Goal of the Dashboard
 
 The goal of this dashboard is to:
 
@@ -69,9 +69,9 @@ The goal of this dashboard is to:
 
 ---
 
-#### • Walkthrough of Key Visuals
+####• Walkthrough of Key Visuals
 
-#### 🔹 Key KPIs (Overview Page)
+🔹 Key KPIs (Overview Page)
 - Total Customers  
 - Churned Customers  
 - Overall Churn Rate (%)  
@@ -82,12 +82,12 @@ Provides an instant summary of customer health.
 
 ---
 
-#### 🔹 Churn Trend by Customer Tenure (Line Chart)
+🔹 Churn Trend by Customer Tenure (Line Chart)
 Visualizes churn behavior across tenure groups to identify early-stage and long-term churn patterns.
 
 ---
 
-#### 🔹 Churn by Contract Type (Bar Chart)
+🔹 Churn by Contract Type (Bar Chart)
 Compares churn across:
 - Month-to-Month  
 - One-Year  
@@ -97,12 +97,12 @@ Highlights the relationship between contract duration and churn risk.
 
 ---
 
-#### 🔹 Geographic Churn Analysis (Bar Chart / Map)
+🔹 Geographic Churn Analysis (Bar Chart / Map)
 Displays churn distribution across regions or states, helping identify high-churn locations.
 
 ---
 
-#### 🔹 Churn Drivers Analysis (Bar Charts)
+🔹 Churn Drivers Analysis (Bar Charts)
 Analyzes churn based on:
 - Internet service type  
 - Additional services (security, backup, streaming)  
@@ -112,7 +112,7 @@ Identifies the strongest contributors to customer churn.
 
 ---
 
-#### 🔹 Customer Risk Segmentation (Table / Slicer)
+🔹 Customer Risk Segmentation (Table / Slicer)
 Customers are categorized into:
 - Low Risk  
 - Medium Risk  
@@ -122,7 +122,7 @@ Enables focused retention strategies for high-risk customers.
 
 ---
 
-#### • Business Impact & Insights
+• Business Impact & Insights
 
 - **Improved Retention:** Early identification of high-risk customers  
 - **Revenue Protection:** Reduced revenue loss through targeted interventions  
